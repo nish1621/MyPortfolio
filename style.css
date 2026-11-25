@@ -20,6 +20,9 @@ nav{
     background: #fff;
     padding: 14px 40px;
     top: 0;
+    left: 0;
+    right: 0;
+    position: fixed;
     box-shadow: 0 2px 8px rgba(0,0,0,.08)
 }
 
@@ -58,7 +61,7 @@ nav a:hover{
     justify-content: space-between;
     align-items: center;
     background: #dcdfff;
-    padding: 50px 80px;
+    padding: 75px 80px;
     overflow: hidden
 }
 
