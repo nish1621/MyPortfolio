@@ -331,8 +331,14 @@ footer{
         flex-direction:column
     }
 
-    .intro .btn{
-        text-align: center;
+    .btn{
+        display: block;
+        margin: 0 auto;
+    }
+
+    .intro{
+        padding: 105px 20px 45px;
+        gap: 30px;
     }
 
     nav ul{
