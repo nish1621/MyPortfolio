@@ -342,6 +342,10 @@ footer{
     footer{
         padding: 18px 12px;
     }
+
+    .intro{
+        padding-top: 30px;
+    }
 }
 
 footer span{
