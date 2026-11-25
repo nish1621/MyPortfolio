@@ -324,7 +324,7 @@ footer{
 
 @media(max-width:768px){
     section,.intro{
-        padding:25px 20px
+        padding:40px 20px
     }
 
     .intro,.about,.contact,.projects,.skills{
@@ -337,14 +337,6 @@ footer{
 
     nav ul{
         display:none
-    }
-
-    footer{
-        padding: 18px 12px;
-    }
-
-    .intro{
-        padding-top: 60px;
     }
 }
 
