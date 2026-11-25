@@ -344,6 +344,10 @@ footer{
     nav ul{
         display:none
     }
+
+    footer{
+        padding: 10px;
+    }
 }
 
 footer span{
